@@ -1,0 +1,62 @@
+body {
+}
+
+.back{
+	background-image: url(../img/gus.jpg);
+    background-size: cover;
+    background-position: fixed;
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+
+.banner{
+	background-color: red;
+	height: 30vw;
+	display: block;
+}
+
+.row{
+	margin-bottom: 20px;
+}
+.seis{
+	background-image: url(../img/gus.jpg);
+    background-size: cover;
+    background-position: fixed;
+    padding: 15px;
+    height: 30vw;
+    margin:10px;
+
+}
+.mid{
+	width: 100vw;
+	height: 7vw;
+	background-image: url(../img/gus.jpg);
+    background-size: cover;
+    background-position: fixed;
+
+
+}
+
+.img2{
+	background-image: url(../img/gus.jpg);
+    background-size: cover;
+    background-position: fixed;
+    height: 30vw;
+
+
+
+}
+
+.long{
+	background-image: url(../img/gus.jpg);
+    background-size: cover;
+    background-position: fixed;
+    height: 30vw;
+    margin: 1.1vw;
+    padding: 10px;
+
+}
